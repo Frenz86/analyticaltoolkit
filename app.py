@@ -547,11 +547,13 @@ else:
     
     with col1:
         st.subheader("Pairplot Example")
-        st.image("https://seaborn.pydata.org/_images/seaborn-pairplot-2.png", width=300)
+        img1 = "https://seaborn.pydata.org/archive/0.12/_images/pairplot_3_0.png"
+        st.image(img1, width=300)
     
     with col2:
         st.subheader("Correlation Matrix Example")
-        st.image("https://miro.medium.com/max/1400/1*ucXgX8XwyIEa95rXYbhJBw.png", width=300)
+        img2 = "https://images.squarespace-cdn.com/content/v1/5b872f96aa49a1a1da364999/96d14ab7-258f-4ab5-8c1a-4ac80427bb8c/taylor_matrix.png"
+        st.image(img2, width=300)
     
     with col3:
         st.subheader("Q-Q Plot Example")
