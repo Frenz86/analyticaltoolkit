@@ -21,6 +21,7 @@ st.set_page_config(page_title="Analytical Toolkit", layout="wide")
 st.title("Analytical Toolkit")
 st.markdown("""
 This app allows you to upload an Excel file and perform various exploratory data analysis tasks:
+* Produce Data Summarization Table
 * Create **pairplots** by selecting specific columns to visualize relationships
 * Generate a **correlation matrix** for numerical columns
 * Produce **Q-Q plots** to check for normality in your data
