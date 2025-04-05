@@ -27,6 +27,8 @@ This app allows you to upload an Excel file and perform various exploratory data
 * Produce **Q-Q plots** to check for normality in your data
 
 Simply drag and drop your Excel file below to get started.
+
+- Download a sample "TIPS" dataset from this link [download](https://tinyurl.com/2ktvatnb)
 """)
 
 # File uploader
